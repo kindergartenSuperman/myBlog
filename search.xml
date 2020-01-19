@@ -1,6 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>README文件书写规范</title>
+    <url>/myblog/2020/01/19/README%E6%96%87%E4%BB%B6%E4%B9%A6%E5%86%99%E8%A7%84%E8%8C%83/</url>
+    <content><![CDATA[<h1 id="myblog"><a href="#myblog" class="headerlink" title="myblog"></a>myblog</h1><ol>
+<li>功能描述<ul>
+<li>主要描述一下这个项目的主要功能列表；</li>
+</ul>
+</li>
+<li>开发环境<ul>
+<li>罗列使用本工程项目所需要安装的开发环境及配置，</li>
+<li>以及所需要的版本说明和对应的下载链接；</li>
+</ul>
+</li>
+<li>项目结构简介<ul>
+<li>简单介绍项目模块结构和目录树；</li>
+<li>对用户可以修改的文件做重点说明；</li>
+</ul>
+</li>
+<li>测试DEMO<ul>
+<li>简单介绍一下DEMO程序的思路，</li>
+<li>具体实现代码放在example文件夹；</li>
+</ul>
+</li>
+<li>作者列表<ul>
+<li>多人合作的项目，可以在这里简单介绍并感谢所有参与开发的研发人员；</li>
+</ul>
+</li>
+<li>更新链接<ul>
+<li>提供后续更新的代码链接；</li>
+</ul>
+</li>
+<li>历史版本<ul>
+<li>对历史版本更改记录，做一个简单的罗列，</li>
+<li>让用户直观的了解到哪些版本解决了哪些问题；</li>
+</ul>
+</li>
+<li>联系方式<ul>
+<li>邮箱，其他人对这个工程不明白的地方可以通过该联系方式与你联系；</li>
+</ul>
+</li>
+</ol>
+]]></content>
+      <tags>
+        <tag>github</tag>
+        <tag>规范</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>2020/1/17/Fri/日志</title>
     <url>/myblog/2020/01/17/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
     <content><![CDATA[<p><img src="/myblog/.com//01_%E5%A4%B4%E5%83%8F.jpg" alt></p>
