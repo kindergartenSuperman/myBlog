@@ -19,6 +19,7 @@
 - Backgroung（项目背景）
 - Install（安装）
 - Usage（使用）
+- 目录结构
 - Badge
 - Example Readmes（使用示例）
 - Related Efforts
@@ -49,12 +50,16 @@
 <figure class="highlight shell"><table><tr><td class="code"><pre><span class="line"><span class="meta">#</span><span class="bash"> 启动本地hexo服务器</span></span><br><span class="line"><span class="meta">$</span><span class="bash"> hexo s</span></span><br></pre></td></tr></table></figure>
 
 <figure class="highlight shell"><table><tr><td class="code"><pre><span class="line"><span class="meta">#</span><span class="bash"> 清除本地缓存文件</span></span><br><span class="line"><span class="meta">$</span><span class="bash"> hexo clean</span></span><br></pre></td></tr></table></figure>
+<h5 id="4-目录结构"><a href="#4-目录结构" class="headerlink" title="4. 目录结构"></a>4. 目录结构</h5><figure class="highlight shell"><table><tr><td class="code"><pre><span class="line"><span class="meta">$</span><span class="bash"> hexo init &lt;folder&gt;</span></span><br><span class="line"><span class="meta">$</span><span class="bash"> <span class="built_in">cd</span> &lt;folder&gt;</span></span><br><span class="line"><span class="meta">$</span><span class="bash"> npm install</span></span><br></pre></td></tr></table></figure>
 
+<p>   新建完成后，目录机构</p>
+<p>.<br>├── _config.yml        //网站的配置信息<br>├── package.json    //应用程序的信息<br>├── scaffolds     //模板文件夹<br>├── source        //存放用户资源的地方<br>| ├── _drafts<br>| └── _posts<br>└── themes        //存放网站的主题。Hexo会根据主题来生成静态页面</p>
 <h5 id="4-Badge"><a href="#4-Badge" class="headerlink" title="4. Badge"></a>4. Badge</h5><ul>
 <li>（可选）</li>
 </ul>
 <h5 id="5-Example-Readmes"><a href="#5-Example-Readmes" class="headerlink" title="5. Example Readmes"></a>5. Example Readmes</h5><ul>
 <li>参考Usage</li>
+<li><a href="https://kindergartensuperman.github.io/myblog/" target="_blank" rel="noopener" title="标题">博客地址</a></li>
 </ul>
 <h5 id="6-Maintainers"><a href="#6-Maintainers" class="headerlink" title="6. Maintainers"></a>6. Maintainers</h5><ul>
 <li>Kindergarten Superman</li>
