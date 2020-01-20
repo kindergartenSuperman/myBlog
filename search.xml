@@ -1,6 +1,76 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Standard README--标准README</title>
+    <url>/myblog/2020/01/20/Standard-README-%E6%A0%87%E5%87%86README/</url>
+    <content><![CDATA[<h4 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h4><ol>
+<li><p>什么是README？</p>
+<ul>
+<li>README 文件是你的开源项目的第一个入口点。</li>
+</ul>
+</li>
+<li><p>README的作用？</p>
+<ul>
+<li>告诉别人，你的项目应该如何安装，如何使用。</li>
+</ul>
+</li>
+</ol>
+<h4 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h4><center><strong>标准的 README 文档</strong></center>
+- Backgroung（项目背景）
+- Install（安装）
+- Usage（使用）
+- Badge
+- Example Readmes（使用示例）
+- Related Efforts
+- Maintainers（项目负责人）
+- Countributing（参与贡献方式）
+  - Contributing
+  - Contributors
+- License（开源协议）
+
+<h5 id="1-Background"><a href="#1-Background" class="headerlink" title="1. Background"></a>1. Background</h5><ul>
+<li>目的：用于记录自己平时的学习笔记，以及生活</li>
+</ul>
+<h5 id="2-Install"><a href="#2-Install" class="headerlink" title="2. Install"></a>2. Install</h5><ul>
+<li>使用的工具：<ul>
+<li>Git</li>
+<li>node.js</li>
+<li>Typora（Markdown）</li>
+</ul>
+</li>
+</ul>
+<h5 id="3-Usage"><a href="#3-Usage" class="headerlink" title="3. Usage"></a>3. Usage</h5><ul>
+<li>在Git工具，本项目的常用的命令如下：</li>
+</ul>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line"><span class="meta">#</span><span class="bash"> 发表新文章</span></span><br><span class="line"><span class="meta">$</span><span class="bash"> hexo n <span class="string">"name of the new post"</span></span></span><br></pre></td></tr></table></figure>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line"><span class="meta">#</span><span class="bash"> 更新到github上</span></span><br><span class="line"><span class="meta">$</span><span class="bash"> hexo g -d</span></span><br></pre></td></tr></table></figure>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line"><span class="meta">#</span><span class="bash"> 启动本地hexo服务器</span></span><br><span class="line"><span class="meta">$</span><span class="bash"> hexo s</span></span><br></pre></td></tr></table></figure>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line"><span class="meta">#</span><span class="bash"> 清除本地缓存文件</span></span><br><span class="line"><span class="meta">$</span><span class="bash"> hexo clean</span></span><br></pre></td></tr></table></figure>
+
+<h5 id="4-Badge"><a href="#4-Badge" class="headerlink" title="4. Badge"></a>4. Badge</h5><ul>
+<li>（可选）</li>
+</ul>
+<h5 id="5-Example-Readmes"><a href="#5-Example-Readmes" class="headerlink" title="5. Example Readmes"></a>5. Example Readmes</h5><ul>
+<li>参考Usage</li>
+</ul>
+<h5 id="6-Maintainers"><a href="#6-Maintainers" class="headerlink" title="6. Maintainers"></a>6. Maintainers</h5><ul>
+<li>Kindergarten Superman</li>
+</ul>
+<h5 id="7-参与贡献方式"><a href="#7-参与贡献方式" class="headerlink" title="7. 参与贡献方式"></a>7. 参与贡献方式</h5><ul>
+<li>在博客下方留言</li>
+</ul>
+<h5 id="8-开源协议"><a href="#8-开源协议" class="headerlink" title="8. 开源协议"></a>8. 开源协议</h5><ul>
+<li>无</li>
+</ul>
+]]></content>
+      <categories>
+        <category>GITHUB</category>
+      </categories>
+      <tags>
+        <tag>github</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>README文件书写规范</title>
     <url>/myblog/2020/01/19/README%E6%96%87%E4%BB%B6%E4%B9%A6%E5%86%99%E8%A7%84%E8%8C%83/</url>
     <content><![CDATA[<h1 id="myblog"><a href="#myblog" class="headerlink" title="myblog"></a>myblog</h1><ol>
@@ -68,8 +138,8 @@
         <category>博客搭建</category>
       </categories>
       <tags>
-        <tag>hexo</tag>
         <tag>github</tag>
+        <tag>hexo</tag>
       </tags>
   </entry>
 </search>
