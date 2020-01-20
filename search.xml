@@ -43,8 +43,11 @@
 <li>在Git工具，本项目的常用的命令如下：</li>
 </ul>
 <figure class="highlight shell"><table><tr><td class="code"><pre><span class="line"><span class="meta">#</span><span class="bash"> 发表新文章</span></span><br><span class="line"><span class="meta">$</span><span class="bash"> hexo n <span class="string">"name of the new post"</span></span></span><br></pre></td></tr></table></figure>
+
 <figure class="highlight shell"><table><tr><td class="code"><pre><span class="line"><span class="meta">#</span><span class="bash"> 更新到github上</span></span><br><span class="line"><span class="meta">$</span><span class="bash"> hexo g -d</span></span><br></pre></td></tr></table></figure>
+
 <figure class="highlight shell"><table><tr><td class="code"><pre><span class="line"><span class="meta">#</span><span class="bash"> 启动本地hexo服务器</span></span><br><span class="line"><span class="meta">$</span><span class="bash"> hexo s</span></span><br></pre></td></tr></table></figure>
+
 <figure class="highlight shell"><table><tr><td class="code"><pre><span class="line"><span class="meta">#</span><span class="bash"> 清除本地缓存文件</span></span><br><span class="line"><span class="meta">$</span><span class="bash"> hexo clean</span></span><br></pre></td></tr></table></figure>
 
 <h5 id="4-Badge"><a href="#4-Badge" class="headerlink" title="4. Badge"></a>4. Badge</h5><ul>
@@ -64,10 +67,11 @@
 </ul>
 ]]></content>
       <categories>
-        <category>GITHUB</category>
+        <category>规范</category>
       </categories>
       <tags>
         <tag>github</tag>
+        <tag>规范</tag>
       </tags>
   </entry>
   <entry>
